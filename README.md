@@ -21,7 +21,7 @@ a simply Library for building UI using vanilla,js and css3
                     &nbsp; year_id:'<i>input id of year</i>',<br>
                     &nbsp; year_value:'<i>value of year</i>',<br>
                     &nbsp; year_placeholder:'<i>year input placeholder</i>',<br>
-                    &nbsp; display_id:'<i>its optional, you can fill this value if you want the view show in the div, example : you create a div and have name same of the value, the table will show inside it</i>',<br>
+                    &nbsp; display_id:'<i>its optional, you can fill this value if you want the view show in the div, example : you create a div and have a smillar name of the value of display_id, the table will show inside it</i>',<br>
                  }</span>
             </li>
         </ul>
