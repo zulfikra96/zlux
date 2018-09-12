@@ -6,9 +6,11 @@ a simply Library for building UI using vanilla,js and css3
 <h3>JS Library</h3>
 
 <ul>
-    <li><h4 style="background-color:red;"><strong>HTML Generator</strong></h4>
-        <ol>
-            <li><h4>Generate Table</h4></li>
-        </ol>
+    <li><h4><strong>HTML Generator</strong></h4>
+        <li>
+            <li><h5>Generate Table</h5>
+                <span>test</span>
+            </li>
+        </ul>
     </li>
 </ul>
