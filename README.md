@@ -12,8 +12,8 @@ a simply Library for building UI using vanilla,js and css3
                 <span><strong>setDateHtml(obj)</strong></span>
                 <br>
                 <span>var obj = {<br>
-                    &bnsp; date_id:'<i>date id html</i>',<br>
-                    &bnsp; date_value:'<i>value of date</i>',<br>
+                    &nbsp; date_id:'<i>date id html</i>',<br>
+                    &nbsp; date_value:'<i>value of date</i>',<br>
                  }</span>
             </li>
         </ul>
