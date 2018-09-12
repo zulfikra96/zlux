@@ -5,4 +5,4 @@ a simply Library for building UI using vanilla,js and css3
 
 <h3>JS Library</h3>
 
-<h5><strong>1. Generate Date html views</strong></h5>
+<h5 style="background-color:red;"><strong>1. Generate Date html views</strong></h5>
